@@ -1,0 +1,30 @@
+[
+  {
+    "id": "5fb3033d-9e38-4312-8177-445c8ee0f1eb",
+    "title": "The-Two-Towers",
+    "author": "Tolkien",
+    "publicationYear": 1954,
+    "quantity": "6"
+  },
+  {
+    "id": "dad07988-a361-42d3-b0ca-4bbb87176d51",
+    "title": "The Fellowship of the Ring",
+    "author": "Tolkien",
+    "publicationYear": 1954,
+    "quantity": 10
+  },
+  {
+    "id": "54443c0a-9134-41e8-8794-adb9001fd1fa",
+    "title": "The Return of the King",
+    "author": "Tolkien",
+    "publicationYear": 1955,
+    "quantity": 10
+  },
+  {
+    "id": "e79ab291-d406-4b0b-8d3f-e4908d407cf2",
+    "title": "TheHobbit",
+    "author": "Tolkien",
+    "publicationYear": 1937,
+    "quantity": 10
+  }
+]
